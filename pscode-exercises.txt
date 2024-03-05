@@ -28,12 +28,13 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-Start
-Take five numbers.
+INPUT five numbers.
 Add numbers and store it to sum.
 Divide sum by five and store it to avg.
 Show sum.
 Show avg.
+Show smallest number of apples.
+Show largest number of apples.
 End.
 
 -- END --
